@@ -1,0 +1,35 @@
+commit 7afc8369b215e42f432e536b8806b67421f6b9d4
+Author: Ethelyn <metallicminiboss@gmail.com>
+Date:   Fri Feb 13 11:00:55 2026 -0500
+
+    Revert "Add lalala.txt with text."
+    
+    This reverts commit 667b2c68604b934f3c00d3016d1c4bd42aa64525.
+
+commit 667b2c68604b934f3c00d3016d1c4bd42aa64525
+Author: Ethelyn <metallicminiboss@gmail.com>
+Date:   Fri Feb 13 11:00:29 2026 -0500
+
+    Add lalala.txt with text.
+
+commit 5c47bc04b90b0cfac890a0da92a75e9409ab357c
+Author: Ethelyn <metallicminiboss@gmail.com>
+Date:   Fri Feb 13 10:59:47 2026 -0500
+
+    Append text to hostname
+
+commit 54d4fb987d126311f8669f1713c496d5f642cbe4
+Author: Ethelyn <metallicminiboss@gmail.com>
+Date:   Fri Feb 13 10:35:19 2026 -0500
+
+    Change os-release.
+    
+    Append nonsense to os-release.
+
+commit b9377a3ce6ec36acb2518a6e24a58a7e11cb368d
+Author: Ethelyn <metallicminiboss@gmail.com>
+Date:   Fri Feb 13 10:32:02 2026 -0500
+
+    Initial commit of repository.
+    
+    This is just for Lab 3.
